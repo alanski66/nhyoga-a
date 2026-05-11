@@ -2,6 +2,7 @@
 layout: testimonial
 title: Maria
 page_image: /assets/images/image.png
+seotitle: Maria | Nicola Harman Yoga
 ---
 If you’d told me in 2021 that yoga would become my non-negotiable, I’d have laughed — mainly because my body was falling apart: two frozen shoulders, ankle surgery, and a back that liked to keep things interesting.
 
